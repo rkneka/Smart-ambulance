@@ -1,0 +1,21 @@
+# nodes.txt - 20 locations in Chennai
+Tambaram           12.9236 80.1000
+Guindy             13.0100 80.2200
+Adyar              13.0012 80.2565
+Velachery          12.9752 80.2207
+OMR                12.9211 80.2320
+Perungudi          12.9620 80.2400
+T_Nagar            13.0418 80.2340
+Anna_Nagar         13.0843 80.2180
+Egmore             13.0785 80.2590
+Mylapore           13.0350 80.2670
+Besant_Nagar       12.9980 80.2690
+Thiruvanmiyur      12.9830 80.2590
+Sholinganallur     12.9000 80.2270
+Medavakkam         12.9200 80.1900
+Pallavaram         12.9670 80.1500
+Chromepet          12.9520 80.1400
+St_Thomas_Mount    13.0050 80.1900
+Nanganallur        12.9780 80.1880
+Madipakkam         12.9650 80.2050
+Koyambedu          13.0700 80.1950

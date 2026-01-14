@@ -1,0 +1,34 @@
+# roads.txt - u v hasSignal (1 = signal, 0 = no signal)
+
+0  1  1   # Tambaram → Guindy (signal)
+1  2  1   # Guindy → Adyar (signal)
+2  3  1   # Adyar → Velachery (signal)
+3  4  1   # Velachery → OMR (signal)
+4  5  1   # OMR → Perungudi (signal)
+1  6  1   # Guindy → T_Nagar (signal)
+6  7  1   # T_Nagar → Anna_Nagar (signal)
+7  8  1   # Anna_Nagar → Egmore (signal)
+8  9  1   # Egmore → Mylapore (signal)
+2 10  1   # Adyar → Besant_Nagar (signal)
+
+# Non-signal roads
+0 14  0   # Tambaram → Pallavaram
+14 15  0   # Pallavaram → Chromepet
+15 16  0   # Chromepet → St_Thomas_Mount
+16 17  0   # St_Thomas_Mount → Nanganallur
+17 18  0   # Nanganallur → Madipakkam
+18  3  0   # Madipakkam → Velachery
+1 16  0   # Guindy → St_Thomas_Mount
+3 12  0   # Velachery → Sholinganallur
+12  4  0   # Sholinganallur → OMR
+5 12  0   # Perungudi → Sholinganallur
+6 19  0   # T_Nagar → Koyambedu
+19  7  0   # Koyambedu → Anna_Nagar
+11  2  0   # Thiruvanmiyur → Adyar
+11 10  0   # Thiruvanmiyur → Besant_Nagar
+13 18  0   # Medavakkam → Madipakkam
+13  3  0   # Medavakkam → Velachery
+9  6  0   # Mylapore → T_Nagar
+8  6  0   # Egmore → T_Nagar
+1  3  0   # Guindy → Velachery (direct)
+0 13  0   # Tambaram → Medavakkam
